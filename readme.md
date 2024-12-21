@@ -11,6 +11,9 @@ The contract ensures transparency and immutability, as all testimonial submissio
 ## Contract Address
 0x04C14b98d424c7566626079214d39115A3FC3a32
 
+##ss 
+![smakishafinal](https://github.com/user-attachments/assets/c9dedd7e-0a71-4b9e-bab7-083de927995e)
+
 ## Project Vision
 The vision of this project is to create a decentralized platform that incentivizes users to share their personal experiences and success stories. This can benefit both businesses (by obtaining valuable feedback and authentic user stories) and users (by earning rewards for their contributions).
 
